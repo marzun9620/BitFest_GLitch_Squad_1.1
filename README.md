@@ -3,12 +3,18 @@
 
 
 # Challenge 1 ::
-
+```
 file : kuet_preli_q1.ipnb
+```
+```
+Language : python (easy for ML, DL, LLM and has huge libraries for data processing/visualising)
+Libraries : transformers, datasets, torch etc
+Hugging Face Transformers : mT5, mBART, and T5 (pre-trained model)
+Hugging Face Datasets : provided by organizers
+PyTorch : flexible deep lerning framework
+wandb api key : 9d805e5e983040daa6c8adf1113fdb4f1c11f00f
 
-
-
-
+```
 
 
 # API Documentation: Challenge:2 = Mofa’s Kitchen Buddy
