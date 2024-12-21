@@ -1,4 +1,17 @@
-# API Documentation: Mofa’s Kitchen Buddy
+# See the Master branch
+
+
+
+# Challenge 1 ::
+
+file : kuet_preli_q1.ipnb
+
+
+
+
+
+
+# API Documentation: Challenge:2 = Mofa’s Kitchen Buddy
 
 This document provides detailed API documentation for the backend system of Mofa’s Kitchen Buddy. The system manages ingredients, stores recipes, and integrates a chatbot powered by an LLM (Large Language Model) to suggest recipes based on available ingredients and user preferences.
 
